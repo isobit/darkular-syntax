@@ -1,8 +1,10 @@
 {
   "name": "darkular-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
-  "authors": ["Josh Glendenning"],
+  "version": "0.1.0",
+  "authors": [
+    "Josh Glendenning"
+  ],
   "description": "Atom syntax theme similar to Intellij IDEA's Darkula.",
   "keywords": [
     "syntax",
